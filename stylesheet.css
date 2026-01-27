@@ -1,6 +1,17 @@
-.Progress .Main.Header{
+.Main.Header{
     font-size:50px;
     text-align: center;
-    background-color: black;
-    color:white;
+    background-color: gold;
+    border: black solid 2px;
+    color:black;
+    display:block;
+    width: 300px;
+    margin: 0 auto 0 auto;
+    box-sizing: border-box;
+}
+
+.log{
+    background-color: #a6eded;
+    display: inline;
+    outline: black solid 1px;
 }

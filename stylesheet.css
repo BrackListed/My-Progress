@@ -23,14 +23,16 @@ ol{
     height: auto;
     padding: 15px;
     flex-wrap: wrap;
+    flex-direction: column;
+    border: black solid 4px;
 }
 
 .eight.log{
     box-sizing: border-box;
     display: block;
-    flex: 1 1 200px;
 }
 
 li{
     padding: 10px;
 }
+
